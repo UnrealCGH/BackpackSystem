@@ -1,0 +1,4 @@
+﻿  Backpack.cpp
+h:\githubproject\backpack\backpack\backpack.cpp(34): warning C4101: “itemNumber”: 未引用的局部变量
+  Backpack.vcxproj -> H:\GitHubProject\Backpack\Debug\Backpack.exe
+  Backpack.vcxproj -> H:\GitHubProject\Backpack\Debug\Backpack.pdb (Full PDB)
